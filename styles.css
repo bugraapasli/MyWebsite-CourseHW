@@ -1,3 +1,43 @@
+@media only screen and (max-width: 600px) {
+  .top-cloud{
+  right: 150px;
+  top: 50px;
+  }
+  .bottom-cloud{
+  left: 150px;
+  bottom: 250px;
+  }
+  h1{
+  margin: 30px auto 0 auto;
+  font-size: 3.5rem;
+  }
+  h2{
+  font-size: 1.8rem;
+  }
+  .skill-row{
+  width: 90%;
+  }
+  .comp-img{
+  width: 40%;
+  margin: 0;
+  float: none;
+  }
+  .research-img{
+  width: 40%;
+  margin: 0;
+  float: none;
+  }
+  .profile-img{
+  width: 30%;
+  }
+  p{
+  font-size: 1.2rem;
+  }
+  hr{
+  width: 20px;
+  }
+  }
+
 .top-container{
     background-color: #FEFAE0;
     position: relative;
